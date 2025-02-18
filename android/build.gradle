@@ -1,9 +1,8 @@
-
 buildscript {
     ext.kotlin_version = '1.8.22'
     repositories {
         google()
-        jcenter()
+        mavenCentral()
     }
 
     dependencies {
@@ -15,7 +14,7 @@ buildscript {
 rootProject.allprojects {
     repositories {
         google()
-        jcenter()
+        mavenCentral() // Replaces JCenter
         maven { url "https://jitpack.io" }
     }
 }
@@ -27,7 +26,7 @@ android {
 
     defaultConfig {
         minSdkVersion 21
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner" // Updated Test Runner
     }
     lintOptions {
         disable 'InvalidPackage'
@@ -36,9 +35,7 @@ android {
 
 dependencies {
     implementation 'com.github.SteevenAlbert:folioreader:V2.35'
-    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.8'
-    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.7'
-    implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.13.4'  // Updated version
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.4' // Updated version
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
 }
-
-
