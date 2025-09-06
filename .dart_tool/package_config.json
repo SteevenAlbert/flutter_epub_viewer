@@ -39,15 +39,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter",
@@ -105,57 +99,51 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.0.15",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.5",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.21",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.15",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.5"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.2.3",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider_linux",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.1.7",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.0.1",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.1.3",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.2"
     },
     {
       "name": "platform",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.0",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.2"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.0.0",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "process",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/process-4.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
@@ -212,16 +200,10 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "win32",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/win32-3.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "xdg_directories",
-      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-0.2.0",
+      "rootUri": "file:///C:/Users/steve/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "vocsy_epub_viewer",
@@ -230,7 +212,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-02-19T00:02:13.612369Z",
+  "generated": "2025-09-06T21:54:17.315039Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/src/flutter",
